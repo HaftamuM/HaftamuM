@@ -10,7 +10,6 @@
 - 👯 I’m looking to collaborate on Python projects
 - 🤔 I’m looking for help with everything - so much to learn
 - 📫 How to reach me: haftamu.molla01@gmail.com
-- 😄 Pronouns: Haftamu
 - ⚡ Fun fact: I like to play soccer when it rains.
 <img align="left" width="200" height="200" src="https://cdn.icon-icons.com/icons2/2070/PNG/512/soccer_player_icon_125840.png">
 
