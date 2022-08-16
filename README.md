@@ -19,8 +19,10 @@
  ## Languages and Tools
  <img align="left" width="65" height="50" src="https://cdn-icons-png.flaticon.com/512/888/888859.png">
  <img align="left" width="65" height="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png">
- <img align="left" width="65" height="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png">
  <img align="left" width="65" height="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
+ <img align="left" width="65" height="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png">
+ <img align="left" width="65" height="50" src="(https://mpng.subpng.com/20180824/ktx/kisspng-mysql-workbench-computer-icons-logo-portable-netwo-thezedt-tech-tips-and-random-thoughts-5b80352110ca84.1955496015351288650688.jpg)">
+
  
 
  
