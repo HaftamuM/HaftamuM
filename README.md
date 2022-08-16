@@ -19,6 +19,5 @@
  ## Languages and Tools
  <img align="left" width="50" height="50" src="https://mpng.subpng.com/20180621/jow/kisspng-plain-old-java-object-programming-language-compute-5b2b6405b39ad9.4848800015295703097357.jpg">
  <img align="left" width="65" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png">
- <img align="left" width="65" height="50" src="https://p7.hiclipart.com/preview/815/33/74/responsive-web-design-web-development-html-css3-cascading-style-sheets-world-wide-web.jpg](https://p7.hiclipart.com/preview/815/33/74/responsive-web-design-web-development-html-css3-cascading-style-sheets-world-wide-web.jpg">
- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/[ICON SLUG].svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/[ICON SLUG].svg" />
+ <img align="left" width="65" height="50" src="https://cdn-icons-png.flaticon.com/512/888/888859.png">
+
