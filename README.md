@@ -18,7 +18,7 @@
  ---------------------------
  ## Languages and Tools
  <img align="left" width="65" height="50" src="https://cdn-icons-png.flaticon.com/512/888/888859.png">
- <img align="left" width="65" height="50" src="https://cdn-icons-png.flaticon.com/512/919/919826.png">
+ <img align="left" width="65" height="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png">
  <img align="left" width="65" height="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png">
  <img align="left" width="65" height="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
  
