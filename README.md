@@ -1,10 +1,14 @@
-## Hi there 👋
 
--------------------------
-#### My Name is Haftamu M
-##### Hello! Welcome to my GitHub :smile: I am an upcoming Software developer, 
-------------------------
-<div id="badges">
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Oj25fisQ3zhukVWY96/giphy.gif" width="100"/>
+</div>
+<h1 align="center">
+  Hello
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+
+<div id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -16,26 +20,34 @@
   </a>
 </div>
 
-- 🔭 I’m currently working on Health Wellness App
-- 🌱 I’m currently learning Python: Web crawling/scraping 
-- 👯 I’m looking to collaborate on Python projects
-- 🤔 I’m looking for help with everything - so much to learn
-- 📫 How to reach me: haftamu.molla01@gmail.com
-- ⚡ Fun fact: I like to play soccer when it rains.
-<img align="left" width="200" height="200" src="https://cdn.icon-icons.com/icons2/2070/PNG/512/soccer_player_icon_125840.png">
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
- <img src="https://github-readme-stats.vercel.app/api?username=HaftamuM&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+I am a Full Stack Developer from United States.
+
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+
+
+
+### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+---
+### 🔥 : GitHub Extra Pins
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+---
+### : fire : Github
+<img src="https://github-readme-stats.vercel.app/api?username=HaftamuM&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
  
- ---------------------------
- ## Languages and Tools
- <img align="left" width="65" height="50" src="https://cdn-icons-png.flaticon.com/512/888/888859.png">
- <img align="left" width="65" height="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png">
- <img align="left" width="65" height="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
- <img align="left" width="65" height="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png">
- <img align="left" width="65" height="50" src="https://cdn-icons-png.flaticon.com/512/919/919851.png">
-<img align="left" width="65" height="50" src="https://cdn-icons-png.flaticon.com/512/919/919836.png">
-<img align="left" width="65" height="50" src="https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png">
-
+ 
+### :writing_hand: Blog Posts :
 
  
 
